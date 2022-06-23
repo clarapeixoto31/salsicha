@@ -1,0 +1,73 @@
+body{
+    background-color: #E8DAB2;
+    
+}
+
+header{
+    max-height: vh 100%;
+}
+
+main{
+    background-color: white;
+    width: 800px;
+    padding: 34px 24px 10px 24px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #090909;
+    width: 100%;
+    height: 50px;
+}
+
+.texto1rodape{
+    color: white;
+    display: inline;
+    
+}
+
+.texto2rodape{
+    color: #35B1D2;
+    display: inline;
+    
+   
+}
+.imagem{
+    width: 770px;
+    height: auto;
+
+}
+
+.Bemvindo{
+    font-size: 26px;
+
+}
+
+.titulo{
+    font-size: 52px;
+
+}
+.logo{
+    height: 192px;
+    width: 370px;
+    display: inline;
+
+}
+.tituloh2{
+    font-size: 30px;
+
+}
+.paragrafo{
+    margin-bottom: 24px;
+}
+.video{
+    width: 770px;
+    height: auto;
+}
+.textocabecalho{
+    display: inline;
+}
